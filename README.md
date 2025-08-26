@@ -5,8 +5,7 @@
 - 📫 How to reach me: carpentierfj@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  TRY HERE : ARCANE-X PROJECT https://drive.google.com/file/d/1sJAeg25-_hC19mpy2fdkbcTdpPuz-3FT/view?usp=sharing
-<!---
+  TRY HERE : ARCANE-X PROJECT: https://drive.google.com/file/d/1z_92d-W6BQX7MDbtps31m0k6cdFHElvM/view?usp=drive_link
 Arcane72/Arcane72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
